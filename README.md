@@ -27,4 +27,4 @@
 * **Aternity Agent** - [Privilege Escalation to SYSTEM](https://help.aternity.com/bundle/release_news_agent_console_saas/page/release_news/topics/release_rn_agent_12.1.html) in versions prior to 12.1.3.95
 * **Jedox** - submitted (0day)
 * **TIBCO** - submitted (0day)
-* **Eilisys** - submitted (0day)
+* **Eilisys Ascent ESS (Employee Self Service)** - Unauthenticated Remote Code Execution not fixed (0day)
