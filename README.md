@@ -25,6 +25,6 @@
 * **CrushFTP** - [Authenticated Remote Code Execution](https://gist.github.com/Frycos/2015161f22827d823060a8b162bc1f89) (RCE) not fixed (0day)
 * **Citrix AppDNA** - Unauthenticated Path Traversal File Overwrite not fixed (0day)
 * **Aternity Agent** - [Privilege Escalation to SYSTEM](https://help.aternity.com/bundle/release_news_agent_console_saas/page/release_news/topics/release_rn_agent_12.1.html) in versions prior to 12.1.3.95
-* **Jedox** - [Authenticated Remote Code Execution](https://knowledgebase.jedox.com/jedox/release-notes-2021-3.htm) in versions prior to 2021.03 (even unauthenticated in older versions)
+* **Jedox** - [Authenticated Remote Code Execution](https://knowledgebase.jedox.com/jedox/release-notes-2021-3.htm) in versions prior to 2021.03 together with invist (even unauthenticated in older versions)
 * **TIBCO** - submitted (0day)
 * **Eilisys Ascent ESS (Employee Self Service)** - Unauthenticated Remote Code Execution not fixed (0day)
