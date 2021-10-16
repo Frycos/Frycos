@@ -26,5 +26,5 @@
 * **Citrix AppDNA** - Unauthenticated Path Traversal File Overwrite not fixed (0day)
 * **Aternity Agent** - [Privilege Escalation to SYSTEM](https://help.aternity.com/bundle/release_news_agent_console_saas/page/release_news/topics/release_rn_agent_12.1.html) in versions prior to 12.1.3.95
 * **Jedox** - [Authenticated Remote Code Execution](https://knowledgebase.jedox.com/jedox/release-notes-2021-3.htm) in versions prior to 2021.3 together with invist (even unauthenticated in older versions)
-* **TIBCO JasperReports Server** - [Authenticated XML External Entity](https://www.tibco.com/support/advisories/2021/10/tibco-security-advisory-october-12-2021-tibco-jasperreports-server-2021-35496) (XXE) in versions prior to 7.9.1 (another RCE still not fixed)
+* **TIBCO JasperReports Server** - [Authenticated XML External Entity (real CVSS3 score: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:L](https://www.tibco.com/support/advisories/2021/10/tibco-security-advisory-october-12-2021-tibco-jasperreports-server-2021-35496) (XXE) in versions prior to 7.9.1 (another RCE still not fixed)
 * **Eilisys Ascent ESS (Employee Self Service)** - Unauthenticated Remote Code Execution not fixed (0day)
