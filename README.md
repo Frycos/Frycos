@@ -28,5 +28,5 @@
 * **Jedox** - [Authenticated Remote Code Execution](https://knowledgebase.jedox.com/jedox/release-notes-2021-3.htm) in versions prior to 2021.3 together with invist (even unauthenticated in older versions)
 * **TIBCO JasperReports Server** - [Authenticated XML External Entity](https://www.tibco.com/support/advisories/2021/10/tibco-security-advisory-october-12-2021-tibco-jasperreports-server-2021-35496) (XXE) in versions prior to 7.9.1 (another "won't fix" RCE)
 * **Eilisys Ascent ESS (Employee Self Service)** - Unauthenticated Remote Code Execution not fixed (0day)
-* **PikeTec TPT** - [Unauthenticated Remote Code Execution](https://piketec.com/de/tpt-download/) in latest and prior versions (0day not fixed yet)
+* **PikeTec TPT** - [Unauthenticated Remote Code Execution](https://piketec.com/de/tpt-download/) in versions prior to [16u4](https://files.piketec.com/downloads/releases/TPT16u4/211128-tpt-16u4-release-notes.pdf) and [15u5](https://files.piketec.com/downloads/releases/TPT15u5/211128-tpt-15u5-release-notes.pdf) (17u1 probably still affected)
 * **IBM Archive and Essence Manager** - [Unauthenticated XML External Entity](https://www.ibm.com/products/arema-archive-and-essence-manager) in latest and prior versions (0day not fixed yet)
