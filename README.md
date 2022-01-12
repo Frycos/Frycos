@@ -30,3 +30,7 @@
 * **Eilisys Ascent ESS (Employee Self Service)** - Unauthenticated Remote Code Execution not fixed (0day)
 * **PikeTec TPT** - [Unauthenticated Remote Code Execution](https://piketec.com/de/tpt-download/) in versions prior to [16u4](https://files.piketec.com/downloads/releases/TPT16u4/211128-tpt-16u4-release-notes.pdf) and [15u5](https://files.piketec.com/downloads/releases/TPT15u5/211128-tpt-15u5-release-notes.pdf) (17u1 probably still affected)
 * **IBM Archive and Essence Manager** - [Unauthenticated XML External Entity](https://www.ibm.com/products/arema-archive-and-essence-manager) in latest and prior versions (0day not fixed yet)
+
+## 2022
+
+* **Microsoft Exchange 2013/2016/2019** - [Deserialization Protection Bypass](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21969) in versions prior Patchday January 2022 (see also my [blog post](https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d))
