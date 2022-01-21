@@ -34,3 +34,4 @@
 ## 2022
 
 * **Microsoft Exchange 2013/2016/2019** - [Deserialization Protection Bypass](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21969) in versions prior Patchday January 2022 (see also my [blog post](https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d))
+* **Act! Premium** - [Unauthenticated Remote Code Execution](https://www.act.com/) (reported)
