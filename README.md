@@ -36,3 +36,4 @@
 * **Microsoft Exchange 2013/2016/2019** - [Deserialization Protection Bypass](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21969) in versions prior Patchday January 2022 (see also my [blog post](https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d))
 * **Act! Premium** - [Unauthenticated Remote Code Execution](https://www.act.com/) (reported)
 * **HPE StoreEver ESL G3 Tape Library** - [Unauthenticated Remote Code Execution](https://www.hpe.com/psnow/doc/c04111556.pdf?jumpid=in_lit-psnow-getpdf&qsVersion=26&ver=26) (reported but "won't fix")
+* **3CX Phone System** - [Unauthenticated Remote Code Execution](https://www.3cx.com/blog/releases/v18-update-3-final/) in Windows installations prior to version 18 update 3
