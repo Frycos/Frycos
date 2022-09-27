@@ -42,3 +42,4 @@
 * **SmarterTools SmarterStats** - [Unauthenticated Remote Code Execution and File Read](https://www.smartertools.com/smarterstats/release-notes/current) (RCE) in versions prior to Build 8195 (Jun 9, 2022). See my [blog post](https://frycos.github.io/vulns4free/2022/06/17/yet-another-rpc-framework.html)
 * **Kerio Connect** - [Authenticated Stack Buffer Overflow with any webmail user](https://www.gfisoftware.de/products-and-solutions/email-and-messaging-solutions/kerio-connect) in latest version (reported)
 * **R1Soft Server Backup Manager (SBM)** - [Authentication Bypass](https://www.connectwise.com/platform/integrations/business-efficiency/r1soft) in latest version (0day)
+* **Skype for Business 2019** - Unauthenticated Server-side Request Forgery (unpatched, see also [my blog post](https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html))
