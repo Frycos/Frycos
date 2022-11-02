@@ -43,3 +43,4 @@
 * **Kerio Connect** - [Authenticated Stack Buffer Overflow with any webmail user](https://www.gfisoftware.de/products-and-solutions/email-and-messaging-solutions/kerio-connect) in latest version (reported)
 * **R1Soft Server Backup Manager (SBM)** - [Authentication Bypass](https://www.connectwise.com/company/trust/security-bulletins/r1soft-and-recover-security-bulletin) in versions prior to 6.16.4.
 * **Skype for Business 2019** - Unauthenticated Server-side Request Forgery (unpatched, see also [my blog post](https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html))
+* **Apache Archiva** - Unauthorized User Registration (unpatched, won't fix) in latest version 2.2.9 and before
