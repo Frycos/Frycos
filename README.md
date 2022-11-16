@@ -44,3 +44,4 @@
 * **R1Soft Server Backup Manager (SBM)** - [Authentication Bypass](https://www.connectwise.com/company/trust/security-bulletins/r1soft-and-recover-security-bulletin) in versions prior to 6.16.4.
 * **Skype for Business 2019** - Unauthenticated Server-side Request Forgery (unpatched, see also [my blog post](https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html))
 * **Apache Archiva** - Unauthorized User Registration (unpatched, won't fix) in latest version 2.2.9 and before
+* **Sophos Mobile** - [Unauthenticated XML External Entity](https://www.sophos.com/en-us/security-advisories/sophos-sa-20221116-smc-xee) in versions between 5.0.0 and 9.7.4
