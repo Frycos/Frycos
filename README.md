@@ -50,4 +50,4 @@
 ## 2023
 
 * **Docmosis Tornado** - [Multiple Vulnerabilities](https://resources.docmosis.com/content/documentation/tornado-v2-9-5-release-notes) in versions prior to 2.9.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html))
-* **GoAnywhere MFT** - [Pre-Auth Remote Code Execution](https://hstechdocs.helpsystems.com/releasenotes/Content/_ProductPages/GoAnywhere/GAMFT.htm) in versions up to 7.1.1 (patch still missing, [read about rediscovering my own bug](https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html))
+* **GoAnywhere MFT** - [Pre-Auth Remote Code Execution](https://hstechdocs.helpsystems.com/releasenotes/Content/_ProductPages/GoAnywhere/GAMFT.htm) in versions up to 7.1.1 ([read about rediscovering my own bug](https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html))
