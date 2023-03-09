@@ -34,7 +34,7 @@
 ## 2022
 
 * **Microsoft Exchange 2013/2016/2019** - [Deserialization Protection Bypass](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21969) in versions prior Patchday January 2022 (see also my [blog post](https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d))
-* **Act! Premium** - [Unauthenticated Remote Code Execution](https://www.act.com/) (reported)
+* **Act! Premium** - [Unauthenticated Remote Code Execution](https://www.act.com/) (reported, blog post planned for mid of 2023)
 * **HPE StoreEver ESL G3 Tape Library** - [Unauthenticated Remote Code Execution](https://www.hpe.com/psnow/doc/c04111556.pdf?jumpid=in_lit-psnow-getpdf&qsVersion=26&ver=26) (reported but "won't fix")
 * **3CX Phone System** - [Unauthenticated Remote Code Execution](https://www.3cx.com/blog/releases/v18-update-3-final/) in Windows installations prior to version 18 update 3 (see also my [blog post](https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88))
 * **Starface ComfortPhoning** - [Authenticated Remote Code Execution](https://www.starface.com/) tested against latest version 7.2.0.5 (0day, see also my [blog post](https://frycos.github.io/vulns4free/2022/05/24/security-code-audit-fails.html))
@@ -52,3 +52,4 @@
 * **Docmosis Tornado** - [Multiple Vulnerabilities](https://resources.docmosis.com/content/documentation/tornado-v2-9-5-release-notes) in versions prior to 2.9.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html))
 * **GoAnywhere MFT** - [Pre-Auth Remote Code Execution](https://hstechdocs.helpsystems.com/releasenotes/Content/_ProductPages/GoAnywhere/GAMFT.htm) in versions up to 7.1.1 ([read about rediscovering my own bug](https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html))
 * **install4j** - [XML External Entity in Update function](https://www.ej-technologies.com/products/install4j/overview.html) in versions prior to 10.0.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html))
+* **Fortinet FortiNAC** - Multiple Vulnerabilities (unauthenticated, reported)
