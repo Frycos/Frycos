@@ -40,7 +40,7 @@
 * **Starface ComfortPhoning** - [Authenticated Remote Code Execution](https://www.starface.com/) tested against latest version 7.2.0.5 (0day, see also my [blog post](https://frycos.github.io/vulns4free/2022/05/24/security-code-audit-fails.html))
 * **Citrix Application Delivery Management** - [Unauthenticated Root Password Reset and License Service Control](https://support.citrix.com/article/CTX460016/citrix-application-delivery-management-security-bulletin-for-cve202227511-and-cve202227512) together with CaptnBanana in versions 13.0 before 13.0-85.19 and 13.1 before 13.1-21.53
 * **SmarterTools SmarterStats** - [Unauthenticated Remote Code Execution and File Read](https://www.smartertools.com/smarterstats/release-notes/current) (RCE) in versions prior to Build 8195 (Jun 9, 2022). See my [blog post](https://frycos.github.io/vulns4free/2022/06/17/yet-another-rpc-framework.html)
-* **Kerio Connect** - [Authenticated Stack Buffer Overflow with any webmail user](https://www.gfisoftware.de/products-and-solutions/email-and-messaging-solutions/kerio-connect) in versions between 9.4 and 9.4.2 (patched in 10.0.0)
+* **Kerio Connect** - [Authenticated Stack Buffer Overflow with any webmail user](https://gist.github.com/Frycos/62fa664bacd19a85235be19c6e4d7599) in versions between 9.4 and 9.4.2 (patched in 10.0.0)
 * **R1Soft Server Backup Manager (SBM)** - [Authentication Bypass](https://www.connectwise.com/company/trust/security-bulletins/r1soft-and-recover-security-bulletin) in versions prior to 6.16.4.
 * **Skype for Business 2019** - Unauthenticated Server-side Request Forgery (unpatched, see also [my blog post](https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html))
 * **Apache Archiva** - Unauthorized User Registration (unpatched, won't fix) in latest version 2.2.9 and before
@@ -50,6 +50,6 @@
 ## 2023
 
 * **Docmosis Tornado** - [Multiple Vulnerabilities](https://resources.docmosis.com/content/documentation/tornado-v2-9-5-release-notes) in versions prior to 2.9.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html))
-* **GoAnywhere MFT** - [Pre-Auth Remote Code Execution](https://hstechdocs.helpsystems.com/releasenotes/Content/_ProductPages/GoAnywhere/GAMFT.htm) in versions up to 7.1.1 ([read about rediscovering my own bug](https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html))
+* **GoAnywhere MFT** - [Pre-Auth Remote Code Execution](https://github.com/rapid7/metasploit-framework/pull/17607) in versions up to 7.1.1 ([read about rediscovering my own bug](https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html))
 * **install4j** - [XML External Entity in Update function](https://www.ej-technologies.com/products/install4j/overview.html) in versions prior to 10.0.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html))
 * **Fortinet FortiNAC** - Multiple Vulnerabilities (unauthenticated, reported)
