@@ -52,4 +52,4 @@
 * **Docmosis Tornado** - [Multiple Vulnerabilities](https://resources.docmosis.com/content/documentation/tornado-v2-9-5-release-notes) in versions prior to 2.9.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html))
 * **GoAnywhere MFT** - [Pre-Auth Remote Code Execution](https://github.com/rapid7/metasploit-framework/pull/17607) in versions up to 7.1.1 ([read about rediscovering my own bug](https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html))
 * **install4j** - [XML External Entity in Update function](https://www.ej-technologies.com/products/install4j/overview.html) in versions prior to 10.0.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html))
-* **Fortinet FortiNAC** - Multiple Unauthenticated Vulnerabilities in versions prior to 9.4.(2|.3) (see also [my blog post](https://frycos.github.io/vulns4free/2023/06/18/fortinac.html))
+* **Fortinet FortiNAC** - Multiple Unauthenticated Vulnerabilities in versions prior to 9.4.(2|3) (see also [my blog post](https://frycos.github.io/vulns4free/2023/06/18/fortinac.html))
