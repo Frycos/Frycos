@@ -6,7 +6,7 @@
 * **FTAPI** - [Authenticated Remote Code Execution](https://web.archive.org/web/20200814001535/https://www.ftapi.com/Release-Notes) (RCE) in versions prior to 4.6.3
 * **ManageEngine OpManager** - [Unauthenticated/Authenticated SQL injection](https://www.manageengine.com/network-monitoring/help/read-me-complete.html) in versions prior to v12.4 Build no 124089 (see also [blog post](https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76))
 * **C1 CMS** - [Authenticated Remote Code Execution](https://github.com/Orckestra/C1-CMS-Foundation/releases/tag/v6.7) in versions prior to 6.7 (see also [blog post](https://medium.com/@frycos/yet-another-net-deserialization-35f6ce048df7))
-* **TinyWall** - Privilege Escalation to SYSTEM in versions prior to 2.1.13 (see also [blog post](https://codewhitesec.blogspot.com/2020/01/cve-2019-19470-rumble-in-pipe.html))
+* **TinyWall** - Privilege Escalation to SYSTEM in versions prior to 2.1.13 (see also [blog post]([https://codewhitesec.blogspot.com/2020/01/cve-2019-19470-rumble-in-pipe.html](https://code-white.com/blog/2020-01-cve-2019-19470-rumble-in-pipe/)))
 
 ## 2020
 
