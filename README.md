@@ -53,3 +53,4 @@
 * **GoAnywhere MFT** - [Pre-Auth Remote Code Execution](https://github.com/rapid7/metasploit-framework/pull/17607) in versions up to 7.1.1 ([read about rediscovering my own bug](https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html))
 * **install4j** - [XML External Entity in Update function](https://www.ej-technologies.com/products/install4j/overview.html) in versions prior to 10.0.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html))
 * **Fortinet FortiNAC** - Multiple Unauthenticated Vulnerabilities in versions prior to 9.4.(2|3) (see also [my blog post](https://frycos.github.io/vulns4free/2023/06/18/fortinac.html))
+* **Technicolor TG670 DSL Gateway Router** - Administrative Backdoor Account by Telecom Italia (see [CERT/CC Note](https://www.kb.cert.org/vuls/id/913565))
