@@ -54,3 +54,4 @@
 * **install4j** - [XML External Entity in Update function](https://www.ej-technologies.com/products/install4j/overview.html) in versions prior to 10.0.5 (see also [my blog post](https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html))
 * **Fortinet FortiNAC** - Multiple Unauthenticated Vulnerabilities in versions prior to 9.4.(2|3) (see also [my blog post](https://frycos.github.io/vulns4free/2023/06/18/fortinac.html))
 * **Technicolor TG670 DSL Gateway Router** - Administrative Backdoor Account by Telecom Italia (see [CERT/CC Note](https://www.kb.cert.org/vuls/id/913565))
+* **MCL Technologies MCL-Net** - [Unauthenticated Arbitrary File Read as SYSTEM](https://www.mcl-mobilityplatform.com/downloads.php) in versions prior to 4.6
