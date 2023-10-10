@@ -42,7 +42,7 @@
 * **SmarterTools SmarterStats** - [Unauthenticated Remote Code Execution and File Read](https://www.smartertools.com/smarterstats/release-notes/current) (RCE) in versions prior to Build 8195 (Jun 9, 2022). See my [blog post](https://frycos.github.io/vulns4free/2022/06/17/yet-another-rpc-framework.html)
 * **Kerio Connect** - [Authenticated Stack Buffer Overflow with any webmail user](https://gist.github.com/Frycos/62fa664bacd19a85235be19c6e4d7599) in versions between 9.4 and 9.4.2 (patched in 10.0.0)
 * **R1Soft Server Backup Manager (SBM)** - [Authentication Bypass](https://www.connectwise.com/company/trust/security-bulletins/r1soft-and-recover-security-bulletin) in versions prior to 6.16.4.
-* **Skype for Business 2019** - Unauthenticated Server-side Request Forgery ([CVE-2023-41763](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2023-41763), see also [my blog post](https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html))
+* **Skype for Business 2019** - Unauthenticated Server-side Request Forgery (see also [my blog post](https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html))
 * **Apache Archiva** - Unauthorized User Registration (unpatched, won't fix) in latest version 2.2.9 and before
 * **Sophos Mobile** - [Unauthenticated XML External Entity](https://www.sophos.com/en-us/security-advisories/sophos-sa-20221116-smc-xee) in versions between 5.0.0 and 9.7.4
 * **pgAdmin Server** - [Unauthenticated Remote Code Execution](https://www.pgadmin.org/docs/pgadmin4/development/release_notes_6_17.html) in pgAdmin Servers on Windows prior to version 6.17 (see also [my blog post](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html))
