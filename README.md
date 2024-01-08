@@ -56,3 +56,7 @@
 * **Technicolor TG670 DSL Gateway Router** - Administrative Backdoor Account by Telecom Italia (see [CERT/CC Note](https://www.kb.cert.org/vuls/id/913565))
 * **MCL Technologies MCL-Net** - [Unauthenticated Arbitrary File Read as SYSTEM](https://www.mcl-mobilityplatform.com/downloads.php) in versions prior to 4.6
 * **GANZ Security AI Box** - [Authentication Bypass](https://www.ganzsecurity.eu/index.php/en/products/aibox) in all versions released prior to July 2023 (see also [my blog post](https://frycos.github.io/vulns4free/2023/11/07/hacking-like-hollywood.html))
+
+## 2024
+
+* **Netavis CCTV with Observer** - [Pre-Auth XML External Entity](https://www.netavis.net/cctv-with-observer/) vulnerability proven for version 4.6.8 (0day)
