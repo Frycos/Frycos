@@ -62,4 +62,4 @@
 * **Netavis CCTV with Observer** - [Pre-Auth XML External Entity](https://www.netavis.net/cctv-with-observer/) vulnerability proven for version 4.6.8 (0day)
 * **Delta Dore Lifedomus** - [Pre-Auth Server-side Request Forgery and XML External Entity](https://www.deltadore.co.uk/fichier/2265) in latest (and last) version (0day)
 * **Tableau Server** - Multiple Authenticated Vulnerabilities (won't fix, report [written down in my blog post](https://frycos.github.io/vulns4free/2024/02/19/tableau-server-no-vulns.html))
-* **Microsoft Dynamics 365 Business Central** - [Pre-Auth](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35248) [Insecure Deserialization](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35249) for versions before June 2024 Patchday
+* **Microsoft Dynamics 365 Business Central** - [Pre-Auth](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35248) [Insecure Deserialization](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35249) for versions before June 2024 Patchday (see also [my blog post](https://frycos.github.io/vulns4free/2024/07/10/dynamics-ups-and-downs.html))
