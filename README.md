@@ -66,3 +66,8 @@
 * **Microsoft Dynamics 365 Business Central** - [Pre-Auth](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35248) [Insecure Deserialization](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35249) for versions before June 2024 Patchday (see also [my blog post](https://frycos.github.io/vulns4free/2024/07/10/dynamics-ups-and-downs.html))
 * **Progress OpenEdge Management** - [Unauthenticated Content Injection](https://community.progress.com/s/article/Unauthenticated-Content-Injection-in-OpenEdge-Management-web-interface-via-ActiveMQ-discovery-service) in versions prior to 11.7.20, 12.2.15 and 12.8.3
 * **Veeam Backup and Replication** - [Unauthenticated Remote Code Execution](https://www.veeam.com/kb4649) in versions prior to 12.2.0.334
+* 
+
+## 2025
+
+* **GFI MailEssentials** - Multiple Vulnerabilities (LPE, XXE, RCE) in versions prior to [21.8](https://gfi.ai/products-and-solutions/network-security-solutions/mailessentials/resources/documentation/product-releases) (see also [my blog post](https://frycos.github.io/vulns4free/2025/04/28/mailessentials.html))
