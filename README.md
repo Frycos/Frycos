@@ -70,3 +70,5 @@
 ## 2025
 
 * **GFI MailEssentials** - Multiple Vulnerabilities (LPE, XXE, RCE) in versions prior to [21.8](https://gfi.ai/products-and-solutions/network-security-solutions/mailessentials/resources/documentation/product-releases) (see also [my blog post](https://frycos.github.io/vulns4free/2025/04/28/mailessentials.html))
+* **Veeam Backup and Replication** - [Multiple Deserialization Filter Bypasses and Authorization Issues](https://www.veeam.com/kb4743) in versions prior to 12.3.1.1139 (main work done by my colleague @mwulftange)
+* **B. Braun OnlineSuite** - [Multiple Unauthenticated Vulnerabilities](https://www.bbraun.com/en/products-and-solutions/b--braun-product-security/06-2025-b--braun-statement-on-vulnerabilities-online-suite.html) prior to version AP 3.0 and earlier (including FSI-06-2020 patch) with my colleague Fabian
