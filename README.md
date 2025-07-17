@@ -66,10 +66,10 @@
 * **Microsoft Dynamics 365 Business Central** - [Pre-Auth](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35248) [Insecure Deserialization](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35249) for versions before June 2024 Patchday (see also [my blog post](https://frycos.github.io/vulns4free/2024/07/10/dynamics-ups-and-downs.html))
 * **Progress OpenEdge Management** - [Unauthenticated Content Injection](https://community.progress.com/s/article/Unauthenticated-Content-Injection-in-OpenEdge-Management-web-interface-via-ActiveMQ-discovery-service) in versions prior to 11.7.20, 12.2.15 and 12.8.3
 * **Veeam Backup and Replication** - [Unauthenticated Remote Code Execution](https://www.veeam.com/kb4649) in versions prior to 12.2.0.334
-* **Zyxel NWA50AX Pro** - [Unauthenticated File Operations] as nDay variants of [Zyxel NAS findings](https://outpost24.com/blog/zyxel-nas-critical-vulnerabilities/) (see also my [my blog post](https://frycos.github.io/vulns4free/2025/06/17/zyxel-nday-variant.html))
 
 ## 2025
 
 * **GFI MailEssentials** - Multiple Vulnerabilities (LPE, XXE, RCE) in versions prior to [21.8](https://gfi.ai/products-and-solutions/network-security-solutions/mailessentials/resources/documentation/product-releases) (see also [my blog post](https://frycos.github.io/vulns4free/2025/04/28/mailessentials.html))
 * **Veeam Backup and Replication** - [Multiple Deserialization Filter Bypasses and Authorization Issues](https://www.veeam.com/kb4743) in versions prior to 12.3.1.1139 (main work done by my colleague @mwulftange)
 * **B. Braun OnlineSuite** - [Multiple Unauthenticated Vulnerabilities](https://www.bbraun.com/en/products-and-solutions/b--braun-product-security/06-2025-b--braun-statement-on-vulnerabilities-online-suite.html) prior to version AP 3.0 and earlier (including FSI-06-2020 patch) with my colleague Fabian
+* **Zyxel NWA50AX Pro** - [Unauthenticated File Operations] as nDay variants of [Zyxel NAS findings](https://outpost24.com/blog/zyxel-nas-critical-vulnerabilities/) (see also my [my blog post](https://frycos.github.io/vulns4free/2025/06/17/zyxel-nday-variant.html))
