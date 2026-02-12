@@ -74,3 +74,7 @@
 * **B. Braun OnlineSuite** - [Multiple Unauthenticated Vulnerabilities](https://www.bbraun.com/en/products-and-solutions/b--braun-product-security/06-2025-b--braun-statement-on-vulnerabilities-online-suite.html) prior to version AP 3.0 and earlier (including FSI-06-2020 patch) with my colleague Fabian
 * **Zyxel NWA50AX Pro** - Unauthenticated File Operations as nDay variants of [Zyxel NAS findings](https://outpost24.com/blog/zyxel-nas-critical-vulnerabilities/) (see also my [my blog post](https://frycos.github.io/vulns4free/2025/06/17/zyxel-nday-variant.html))
 * **Radiometer ABL90 FLEX PLUS** - Multiple vulnerabilities in blood gas analyzer (hard-coded secrets, authentication bypass, remote code execution)
+
+## 2026
+
+* **GFI Archiver** - Multiple [Authentication](https://www.zerodayinitiative.com/advisories/ZDI-26-075/) [Bypasses](https://www.zerodayinitiative.com/advisories/ZDI-26-077/) and [Remote](https://www.zerodayinitiative.com/advisories/ZDI-26-074/) [Code Executions](https://www.zerodayinitiative.com/advisories/ZDI-26-076/) in versions prior to 15.11
